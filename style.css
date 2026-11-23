@@ -157,3 +157,20 @@ h3 { line-height: 1.25; letter-spacing: -.025em; }
     border-radius: 50%;
     display: block;
 }
+
+.artifact-preview img {
+    width: 500px;
+    height: auto;
+}
+
+#friendsgiving_image {
+    width: 300px;
+    height: 300px;
+}
+
+#uklogo {
+  width: 100px;
+  height: 80px;
+  border-radius: 15px;
+  object-fit: cover;
+}
